@@ -1,4 +1,0 @@
-#properties
-
-strategy.classname = strategyfactorysingleton.dominio.strategies.VerdeStrategy
-
